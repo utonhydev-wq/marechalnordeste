@@ -1,0 +1,6 @@
+{
+  "name": "Marechal Nordeste Batata",
+  "description": "Website oficial da Marechal Nordeste Batata — batatas crocantes, porções caprichadas, lanches deliciosos, pedidos online e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
