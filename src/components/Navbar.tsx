@@ -20,7 +20,6 @@ export const Navbar: React.FC = () => {
     { label: 'Cardápio', href: '#cardapio' },
     { label: 'Diferenciais', href: '#diferenciais' },
     { label: 'Avaliações', href: '#avaliacoes' },
-    { label: 'Promoções', href: '#promocoes' },
     { label: 'Instagram', href: '#instagram' },
   ];
 

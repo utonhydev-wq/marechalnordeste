@@ -11,7 +11,6 @@ import { MenuSection } from './components/MenuSection';
 import { VisualHighlightSection } from './components/VisualHighlightSection';
 import { WhyChooseSection } from './components/WhyChooseSection';
 import { ReviewsSection } from './components/ReviewsSection';
-import { LeadCaptureSection } from './components/LeadCaptureSection';
 import { InstagramSection } from './components/InstagramSection';
 import { FinalCTASection } from './components/FinalCTASection';
 import { Footer } from './components/Footer';
@@ -43,17 +42,14 @@ export default function App() {
         {/* 6. Avaliações (Prova Social) */}
         <ReviewsSection />
 
-        {/* 7. Captação de Leads */}
-        <LeadCaptureSection />
-
-        {/* 8. Instagram */}
+        {/* 7. Instagram */}
         <InstagramSection />
 
-        {/* 9. CTA Final */}
+        {/* 8. CTA Final */}
         <FinalCTASection />
       </main>
 
-      {/* 10. Rodapé */}
+      {/* Rodapé */}
       <Footer />
 
       {/* Botão Flutuante do WhatsApp */}
